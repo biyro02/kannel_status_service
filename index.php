@@ -1,14 +1,6 @@
 <?php
-/**
- * I want to be a part-time(20 hours per week) worker with you.
- * I'm working more fast then any junior minimum 2 times.
- * If we will deal, please give the jobs weekly.
- * Because I'm still working another company.
- * I have the regularly payment and it is about 5000 Turkish Liras.
- */
 
 require __DIR__ . "/autoloader.php";
-require __DIR__ . '/vendor/autoload.php';
 
 use Kannel\Services\KannelStatusService;
 
