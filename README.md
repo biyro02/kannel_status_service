@@ -1,2 +1,2 @@
-# deneme_02
-This repo will not be use.
+# Kannel status service
+May be this can be a start of open-source project.
