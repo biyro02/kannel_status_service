@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71eb9a64-5d57-4ba3-9cc5-76e1ec1a427e" name="Default Changelist" comment="Some refactors" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1fcv3XvSdIG4XZDnMsJpEl8qsY6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exceptions" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exceptions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Kannel/Services" />
+      <recent name="$PROJECT_DIR$/Kannel/DataTypes" />
+      <recent name="$PROJECT_DIR$/Kannel/Collections" />
+      <recent name="$PROJECT_DIR$/kannel/Abstracts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71eb9a64-5d57-4ba3-9cc5-76e1ec1a427e" name="Default Changelist" comment="" />
+      <created>1596529997290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596529997290</updated>
+      <workItem from="1596529999208" duration="324000" />
+      <workItem from="1596530772313" duration="39605000" />
+      <workItem from="1598992180651" duration="460000" />
+    </task>
+    <task id="LOCAL-00001" summary="Basic Kannel get service for abcvyz">
+      <created>1596587351204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596587351204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Last commits">
+      <created>1596588441940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596588441940</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Some refactors">
+      <created>1596650824518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596650824518</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic Kannel get service for abcvyz" />
+    <MESSAGE value="Last commits" />
+    <MESSAGE value="Some refactors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some refactors" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="576" y="210" width="824" height="684" key="#CLI_Interpreters" timestamp="1596535678649">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="576" y="210" width="824" height="684" key="#CLI_Interpreters/67.27.1853.1053@67.27.1853.1053" timestamp="1596535678649" />
+    <state x="782" y="233" width="412" height="638" key="#com.intellij.ide.util.MemberChooser" timestamp="1596537695747">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="782" y="233" width="412" height="638" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1596537695747" />
+    <state x="760" y="242" width="448" height="621" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596539640681">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="760" y="242" width="448" height="621" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1596539640681" />
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1596587305753">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1596587305753" />
+    <state x="776" y="272" width="497" height="561" key="NewPhpClassDialog" timestamp="1596581098028">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="272" width="497" height="561" key="NewPhpClassDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1596581098027" />
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1596580711562">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1596580711562" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1596574495664">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1596574495664" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596650831288">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1596650831288" />
+  </component>
+</project>
