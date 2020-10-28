@@ -10,7 +10,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71eb9a64-5d57-4ba3-9cc5-76e1ec1a427e" name="Default Changelist" comment="Some refactors" />
+    <list default="true" id="71eb9a64-5d57-4ba3-9cc5-76e1ec1a427e" name="Default Changelist" comment="xmls">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SystemDefined/KannelConst.php" beforeDir="false" afterPath="$PROJECT_DIR$/SystemDefined/KannelConst.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +32,11 @@
   </component>
   <component name="Git.Settings">
     <branch-grouping />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
@@ -50,6 +58,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PHP" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Exceptions" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -80,6 +89,10 @@
       <workItem from="1596529999208" duration="324000" />
       <workItem from="1596530772313" duration="39605000" />
       <workItem from="1598992180651" duration="460000" />
+      <workItem from="1600157483191" duration="3849000" />
+      <workItem from="1601362186565" duration="719000" />
+      <workItem from="1602832971237" duration="1918000" />
+      <workItem from="1603905321150" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Kannel get service for abcvyz">
       <created>1596587351204</created>
@@ -102,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596650824518</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="xmls">
+      <created>1600157543215</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600157543215</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +139,12 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="81" />
+                  <entry key="3" value="80" />
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -130,7 +156,8 @@
     <MESSAGE value="Basic Kannel get service for abcvyz" />
     <MESSAGE value="Last commits" />
     <MESSAGE value="Some refactors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some refactors" />
+    <MESSAGE value="xmls" />
+    <option name="LAST_COMMIT_MESSAGE" value="xmls" />
   </component>
   <component name="WindowStateProjectService">
     <state x="576" y="210" width="824" height="684" key="#CLI_Interpreters" timestamp="1596535678649">
@@ -161,9 +188,9 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1596574495664" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596650831288">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600157545280">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1596650831288" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1600157545280" />
   </component>
 </project>

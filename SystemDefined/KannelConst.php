@@ -35,6 +35,7 @@ class KannelConst
     const GUZZLE_EXCEPTION = "There is a guzzle exception. Check detail: ";
     const WRONG_DATA_TYPE_EXCEPTION = "There is wrong data type founded.";
     const KANNEL_REQUEST_EXCEPTION = "There is a request exception. Please check the detail.";
-    CONST NOT_SUPPORTED_RESPONSE_TYPE = "This type is not included by Kannel Status Return Types. Please check your parameter!";
-    CONST FILE_EXTENSION_IS_NOT_AN_XML_SAMPLE = "File extension is is not an xml sample!";
+    const NOT_SUPPORTED_RESPONSE_TYPE = "This type is not included by Kannel Status Return Types. Please check your parameter!";
+    const FILE_EXTENSION_IS_NOT_AN_XML_SAMPLE = "File extension is is not an xml sample!";
+
 }
