@@ -37,5 +37,4 @@ class KannelConst
     const KANNEL_REQUEST_EXCEPTION = "There is a request exception. Please check the detail.";
     const NOT_SUPPORTED_RESPONSE_TYPE = "This type is not included by Kannel Status Return Types. Please check your parameter!";
     const FILE_EXTENSION_IS_NOT_AN_XML_SAMPLE = "File extension is is not an xml sample!";
-
 }
